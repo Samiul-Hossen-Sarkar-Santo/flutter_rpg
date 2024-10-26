@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_rpg/models/character.dart';
+import 'package:flutter_rpg/screens/profile/profile.dart';
 import 'package:flutter_rpg/shared/styled_text.dart';
 
 class CharacterCard extends StatelessWidget {
@@ -32,7 +33,14 @@ class CharacterCard extends StatelessWidget {
               ),
               const Expanded(child: SizedBox()),
               IconButton(
-                onPressed: () {},
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(
+                      builder: (ctx) => Profile(),
+                    ),
+                  );
+                },
                 icon: const Icon(
                   Icons.chevron_right,
                 ),

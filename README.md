@@ -4,13 +4,22 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a project that I'm building to learn flutter by following a course by [NetNinja](https://netninja.dev/p/flutter-masterclass).
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📂🥷🏼 Access the course files on GitHub: https://github.com/iamshaunjp/flutter-masterclass
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+💻🥷🏼 TypeScript Masterclass: https://netninja.dev/p/typescript-masterclass
+
+🔗🥷🏼 Flutter Getting Started Guides - https://docs.flutter.dev/get-started/install
+
+🔗🥷🏼 Install Node.js - https://nodejs.org/en
+
+🔗🥷🏼 VS Code - https://code.visualstudio.com/
+
+🔗🥷🏼 DartPad (Dart sandbox) - https://dartpad.dev/
+
+🔗🥷🏼 Homebrew (for mac) - https://brew.sh/
+
+🔗🥷🏼 Zapp (Flutter sandbox) https://zapp.run/new

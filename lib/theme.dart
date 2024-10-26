@@ -56,12 +56,22 @@ ThemeData primaryTheme = ThemeData(
     surfaceTintColor: Colors.transparent,
   ),
 
-  //Text fields
+  //input Text fields
   inputDecorationTheme: InputDecorationTheme(
     filled: true,
     fillColor: Appcolors.secondaryColor,
     border: InputBorder.none,
     labelStyle: TextStyle(color: Appcolors.textColor),
     prefixIconColor: Appcolors.textColor,
+  ),
+
+  //dialog theme
+  dialogTheme: DialogTheme(
+    backgroundColor: Appcolors.secondaryAccent,
+    surfaceTintColor: Colors.transparent,
+    shape: BeveledRectangleBorder(
+      side: BorderSide.none,
+      borderRadius: BorderRadius.circular(5),
+    ),
   ),
 );
